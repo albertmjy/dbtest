@@ -1,0 +1,19 @@
+----------------------------------------------------------------
+Wed Feb 25 22:58:16 CST 2015:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.11.1.1 - (1616546): instance a816c00e-014b-c13e-d888-000005bbe768 
+on database directory /Users/albert/Workspace/IDEA/dbtest/myDatabase with class loader java.net.URLClassLoader@7b247c81 
+Loaded from file:/Users/albert/.m2/repository/org/apache/derby/derby/10.11.1.1/derby-10.11.1.1.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.7.0_51-b13
+user.dir=/Users/albert/Workspace/IDEA/dbtest
+os.name=Mac OS X
+os.arch=x86_64
+os.version=10.9.5
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Wed Feb 25 22:58:17 CST 2015: Shutting down Derby engine
+----------------------------------------------------------------
+Wed Feb 25 22:58:17 CST 2015:
+Shutting down instance a816c00e-014b-c13e-d888-000005bbe768 on database directory /Users/albert/Workspace/IDEA/dbtest/myDatabase with class loader java.net.URLClassLoader@7b247c81 
+----------------------------------------------------------------
